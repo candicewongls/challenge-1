@@ -25,9 +25,11 @@
 - Ensures that people with disabilities can access a website using assistive technologies such as video captions, screen readers, and braille keyboards.
 - Making a website accessible is also good for business for many reasons, one of them being that accessible sites are better positioned in search engines like Google
 
+
 ## Credit
 * [Semantic HTML](https://www.w3schools.com/html/html5_semantic_elements.asp)
 * [Image `alt` attributes](https://www.w3schools.com/tags/att_img_alt.asp)
+
 
 ## License
 MIT License

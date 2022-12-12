@@ -77,7 +77,7 @@ p {
 }
 
 .align-left {
-    align: left;
+    align-items: left;
     width: 50%;
 }
 

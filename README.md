@@ -5,8 +5,11 @@
 
 - Installation
 - Usage
+- Github Repo link
+- Live url
 - Credit
 - License
+
 
 ## Installation
 
@@ -17,14 +20,19 @@
 3. Install as you would normally install a html file.
 
 ## Usage
-```md
-![alt text](challenge-1/assets/images/screenshot.png)
+![alt text](./assets/images/screenshot.png)
 - Using semnatic html element can improve accessibility of the source code. 
 - For front-end and junior developers is to take existing code and refactor it 
 - Improve it without changing what it does) to meet a certain set of standards or implement a new technology
 - Ensures that people with disabilities can access a website using assistive technologies such as video captions, screen readers, and braille keyboards.
 - Making a website accessible is also good for business for many reasons, one of them being that accessible sites are better positioned in search engines like Google
 
+
+## Github Repo
+https://github.com/candicewongls/challenge-1 
+
+## Live URL
+ https://candicewongls.github.io/challenge-1/
 
 ## Credit
 * [Semantic HTML](https://www.w3schools.com/html/html5_semantic_elements.asp)
